@@ -1,0 +1,12 @@
+package listaexercicio05;
+
+import java.util.*;
+
+public class Data {
+
+	public static void main(String[] args) {
+		 Date = data = new Date ();
+		 
+	}
+
+}

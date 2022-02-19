@@ -1,0 +1,32 @@
+package listaexercicio05;
+
+import java.util.Scanner;
+
+public class atividade01 {
+
+	public static void main(String[] args) {
+
+		Scanner leia = new Scanner(System.in);
+				
+		int idade;
+		int dias = 365.0;
+		int anos;
+		int meses = 12;
+		int contador = 0;
+		
+		
+		System.out.println("Digite sua idade: ");
+		idade = leia.nextInt();
+		contador = (idade * 365) / dias ;
+	
+		
+		System.out.println("Sua idade em dias é : " + contador);
+		contador = leia.nextInt();
+
+		
+		
+		
+		
+	}
+
+}

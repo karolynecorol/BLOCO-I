@@ -1,0 +1,10 @@
+package codigosGen;
+
+public class atividade01 {
+	
+	int dia
+	int mes
+	int ano
+	
+
+}

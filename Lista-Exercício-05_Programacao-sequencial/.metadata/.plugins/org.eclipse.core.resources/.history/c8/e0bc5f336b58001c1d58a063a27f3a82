@@ -1,0 +1,25 @@
+package codigosGen;
+
+	public class atividade02 {
+
+	import java.util.Scanner;
+	
+	public static void main(String[] args) {
+		
+		Scanner leia = new Scanner(System.in);
+		// de uma pessoa , meses e dias e mostre-a expressa apenas em dias.
+		
+		int dia;
+		int mes;
+		int ano;
+		int idade;
+			
+	
+		//Faça um sistema que leia a idade expressa em anos
+	System.out.println("Escreva a idade: ");
+		
+		
+
+	}
+
+}

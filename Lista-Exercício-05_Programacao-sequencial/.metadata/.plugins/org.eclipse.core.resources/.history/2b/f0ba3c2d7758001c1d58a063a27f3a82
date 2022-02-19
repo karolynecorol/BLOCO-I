@@ -1,0 +1,25 @@
+package listaexercicio05;
+
+import java.util.Scanner;
+import Data.java;
+
+public class atividade01 {
+
+	public static void main(String[] args) {
+
+		int nome;
+		int anoNascimento;
+		int ano;
+		
+		int idade;
+		System.out.println("Digite sua idade: ");
+		idade = leia.nextInt();
+		
+		idade = idade * 365;
+		
+		System.out.println("Sua idade em dias é: " + idade);
+		
+	 
+	}
+
+}

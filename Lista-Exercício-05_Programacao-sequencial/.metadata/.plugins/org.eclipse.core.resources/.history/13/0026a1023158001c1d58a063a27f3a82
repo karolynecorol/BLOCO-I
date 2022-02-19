@@ -1,0 +1,13 @@
+
+public class Exemplo01 {
+
+	int var1, var2;
+	
+	var1 = 1000;
+	
+	private void sysout("Valor da variável 1: " + var1); {
+
+	}
+			
+	
+}

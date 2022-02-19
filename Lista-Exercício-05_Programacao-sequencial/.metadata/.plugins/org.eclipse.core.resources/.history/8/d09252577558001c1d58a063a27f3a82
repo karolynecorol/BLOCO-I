@@ -1,0 +1,26 @@
+package listaexercicio05;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class Data {
+
+	
+	public static void main(String[] args) {
+		 Date data = new Date ();
+		 SimpleDateFormat formatardia = new SimpleDateFormat ("d");
+		 String dataformatada = formatardia.format(data);
+		 System.out.println (dataformatada);
+		 
+		 SimpleDateFormat formatarMes = new SimpleDateFormat ("M");
+		 String dataformatada = formatarMes.format(data);
+		 System.out.println (dataformatada);
+		 
+		 SimpleDateFormat formatarAno = new SimpleDateFormat ("y");
+		 String dataformatada = formatarAno.format(data);
+		 System.out.println (dataformatada);
+		 
+		 
+	}
+
+}

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Karol\Desktop\Generation\Eclipse\Lista-Exercício-05_Programacao-sequencial\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+75931715.index
+332656012.index

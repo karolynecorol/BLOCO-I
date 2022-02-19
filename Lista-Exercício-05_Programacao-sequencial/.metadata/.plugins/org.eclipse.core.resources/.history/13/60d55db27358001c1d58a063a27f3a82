@@ -1,0 +1,14 @@
+package listaexercicio05;
+
+import java.util.Date;
+
+public class Data {
+
+	public static void main(String[] args) {
+		 Date data = new Date ();
+		 SimpleDateFormat formatar = new SimpleDateFormat ();
+		 System.out.println("Data atual:" + data );
+		 
+	}
+
+}
